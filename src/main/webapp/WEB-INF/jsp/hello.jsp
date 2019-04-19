@@ -2,7 +2,7 @@
 <html>
 <body>
 <p>
-내이름은
+my name is
 <%=request.getAttribute("name") %>
 </body>
 </html>
